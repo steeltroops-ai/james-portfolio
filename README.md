@@ -45,7 +45,7 @@ The website is designed to be minimalistic yet modern, ensuring a smooth user ex
   - Disqus for blog comments
   - Google Analytics for tracking visitor statistics
 
-## Project Structure
+## Project Structure 
 📁 james-portfolio-website 
 ├── 📁 public 
 ├── 📁 src 
